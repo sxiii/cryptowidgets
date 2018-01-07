@@ -34,7 +34,6 @@ http://metalist.space/Виджеты
 * [Pastebin](https://pastebin.com/p0yCf8AP.png)
 
 # Crypto-Widgets websites list
-Ссылка	Описание
 * https://cryptocompare.com/dev/widget/wizard
 * https://ru.tradingview.com/widget
 * https://bitcoin.com/widgets
