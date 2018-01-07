@@ -18,3 +18,6 @@ Currently we cannot update the data in the widget without fully updating the web
 
 ## Other widgets - on my cryptowiki
 http://metalist.space/Виджеты
+
+## Widgets on Golos
+https://golos.io/ru--kriptovalyuty/@sxiii/vidzhety-udobnyi-vidzhet-otobrazheniya-ceny-efira-eth-klassika-etc-augura-rep-gnt-i-dgd-test
