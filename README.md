@@ -30,8 +30,8 @@ http://metalist.space/Виджеты
 
 ## My widgets on other websites
 * [Golos](https://golos.io/ru--kriptovalyuty/@sxiii/vidzhety-udobnyi-vidzhet-otobrazheniya-ceny-efira-eth-klassika-etc-augura-rep-gnt-i-dgd-test)
-* [Pastebin1](https://pastebin.com/AaS5gMhx.png)
-* [Pastebin](https://pastebin.com/p0yCf8AP.png)
+* [Pastebin1](https://pastebin.com/AaS5gMhx)
+* [Pastebin2](https://pastebin.com/p0yCf8AP)
 
 # Crypto-Widgets websites list
 * https://cryptocompare.com/dev/widget/wizard
