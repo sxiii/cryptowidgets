@@ -28,5 +28,26 @@ Currently we cannot update the data in the widget without fully updating the web
 ## Other widgets - on my cryptowiki
 http://metalist.space/Виджеты
 
-## Widgets on Golos
-https://golos.io/ru--kriptovalyuty/@sxiii/vidzhety-udobnyi-vidzhet-otobrazheniya-ceny-efira-eth-klassika-etc-augura-rep-gnt-i-dgd-test
+## My widgets on other websites
+* [Golos](https://golos.io/ru--kriptovalyuty/@sxiii/vidzhety-udobnyi-vidzhet-otobrazheniya-ceny-efira-eth-klassika-etc-augura-rep-gnt-i-dgd-test)
+* [Pastebin1](https://pastebin.com/AaS5gMhx.png)
+* [Pastebin](https://pastebin.com/p0yCf8AP.png)
+
+# Crypto-Widgets websites list
+Ссылка	Описание
+* https://cryptocompare.com/dev/widget/wizard
+* https://ru.tradingview.com/widget
+* https://bitcoin.com/widgets
+* https://coindesk.com/price/bitcoin-price-ticker-widget
+* https://cryptocoinsnews.com/bitcoin-price-news-widget
+* https://bitcoinaverage.com/en/widgets
+* https://cryptonator.com/widget
+* https://btcwidget.com
+* https://coingecko.com/en/widgets/ticker/ethereum/btc
+* https://cryptorival.com/widgets
+* https://worldcoinindex.com/widget
+
+# Contribute to my work
+* http://metalist.space/Информация
+* https://steemit.com/@sxiii
+* https://golos.io/@sxiii
