@@ -9,6 +9,15 @@ Collection of crypto widgets that are helpful for traders &amp; crypto users
 2. Open the file in local browser or drop to local or remote webserver
 `firefox file:///home/user/index.html`
 
+## Index 1
+![I1](https://imgur.com/eOuFOQp.png)
+
+## Index 2
+![I2](https://imgur.com/SVXzoPC.png)
+
+## Index 3
+![I2](https://imgur.com/JGUINud.png)
+
 ## Please contribute
 * Additional widgets layouts are welcomed;
 * Widget generator or widget currency changer is a good idea too
